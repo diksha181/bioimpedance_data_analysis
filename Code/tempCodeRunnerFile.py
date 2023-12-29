@@ -1,0 +1,1 @@
+model = SVR(kernel='rbf', C=1, epsilon=0.2)
